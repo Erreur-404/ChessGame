@@ -1,5 +1,5 @@
 # Jeu d'échec
-## Auteurs: Erreur-404 et [Mo-LK](https://github.com/Mo-LK)
+## Auteurs: [Erreur-404](https://github.com/Erreur-404) et [Mo-LK](https://github.com/Mo-LK)
 
 # Comment jouer
 C'est un simple jeux d'échec; les règles sont les mêmes que dans un jeu d'échec classique. Toutefois, ce jeu d'échec ne présente pas toutes les pièces. 
@@ -15,7 +15,7 @@ Images tirées du site The Noun Project : https://thenounproject.com/browse/colle
 ---
 
 # Chess Game
-## Authors: Erreur-404 and [Mo-LK](https://github.com/Mo-LK)
+## Authors: [Erreur-404](https://github.com/Erreur-404) and [Mo-LK](https://github.com/Mo-LK)
 
 # How to play
 It's a simple chess game; the rules are the same as a traditionnal chess game. However, this version does not implement every piece.
